@@ -1,0 +1,17 @@
+body{
+  background-color: pink;
+  text-align: left;
+}
+h1{
+  font-family: 'Amatic SC', cursive, serif;
+  font-size: 100px;
+  color: aqua;
+  width: 50%;
+  background-color: white;
+  text-align: center;
+}
+h2 {
+font-family: 'Amatic SC',cursive, serif;
+color: aqua;
+font-size: 55px;
+}
